@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "ga-claude-code-marketplace",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Global Auth Claude Code plugins collection for TxGlobalAuth integration workflows.",
   "owner": {
     "name": "Dmitry Vorobyev",
@@ -11,7 +11,7 @@
     {
       "name": "global-auth",
       "description": "Global Auth plugins for Claude Code. Skills: global-auth-frontend (TxGlobalAuth widget integration expertise).",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "author": {
         "name": "Dmitry Vorobyev"
       },
