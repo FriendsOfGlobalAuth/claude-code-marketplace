@@ -1,4 +1,13 @@
-# ga-claude-code-marketplace
+# ga-claude-code-marketplace (DEPRECATED)
+
+> **This repository is deprecated and will no longer be updated.** The marketplace has been merged into [cc-ga-plugins](https://github.com/FriendsOfGlobalAuth/cc-ga-plugins). Go there for up-to-date installation instructions (Claude Code, Qwen Code, and other platforms).
+>
+> To migrate, remove the old marketplace and follow the instructions in the new repository:
+> ```bash
+> claude plugin marketplace remove FriendsOfGlobalAuth/claude-code-marketplace
+> ```
+
+---
 
 Global Auth Claude Code plugins collection for TxGlobalAuth integration workflows.
 
